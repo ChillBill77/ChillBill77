@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChillBill77
 - 👀 I’m interested in StarWars/StarTrek and Cyber Security
-- 🌱 I’m currently learning Terraform, TerraGrunt and SABSA
+- 🌱 I’m currently learning Terraform, TerraGrunt and everything around it
 - 📫 How to reach me ...... report an issue ;-) 
 
 <!---
